@@ -1,4 +1,4 @@
-#Oii!! Sou a Eduarda Santos
+#Oii!! Sou a Maria Eduarda
 <div>
   <a href="https://github.com/Eduardasantxs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardasantxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
